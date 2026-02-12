@@ -11,7 +11,9 @@ const geist = Geist({
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.url), // change later
-
+  verification: {
+    google: '6Lk6AdtXMvB38WvCwbW0xmzDyUbbHAPdA89zdD4gNJ8',
+  },
   title: {
     default: siteConfig.name + " | A premium event planning company",
     template: "%s | Luxury Event Management",
