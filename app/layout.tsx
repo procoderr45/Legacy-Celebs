@@ -12,7 +12,7 @@ const geist = Geist({
 export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.url), // change later
   verification: {
-    google: '6Lk6AdtXMvB38WvCwbW0xmzDyUbbHAPdA89zdD4gNJ8',
+    google: "4AvwA2rd-SSD7gUUN5Hqq3n7X9e1IjPPh0FWxCysGz4",
   },
   title: {
     default: siteConfig.name + " | A premium event planning company",
